@@ -18,18 +18,3 @@ newfile = '/home/wry/workspace/large_file_remove/files/test_space.txt'
 # 运行
 LargeFileRemoveDuplication(oldfile, newfile)
 ```
-
-
-
-效果：
-
-源文件：
-![](/home/wry/下载/1807569089.jpg)
-
-去重结果：
-
-![](/home/wry/图片/2018-11-21 01-33-41屏幕截图.png)
-
-打印用时：
-
-![](/home/wry/图片/2018-11-21 01-35-52屏幕截图.png)
