@@ -18,7 +18,6 @@ class LargeFileRemoveDuplication:
     # tip1 生成分割保存的文件
     def generate_file(self):
         # files存储路径
-        #
         handle_file, files = [], []
         temp_file_path_isexists = os.path.exists(self.temp_dir)
         if not temp_file_path_isexists:
